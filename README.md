@@ -14,3 +14,10 @@
 * LED_Multi_02 : 8개의 LED 순차점멸하기
 * UART_TO_LED : 시리얼 모니터로 아두이노와 통신하기
 
+## 2017-07-19
+* POTEN : POTENTIO Meter를 이용한 AnlogeRead 실험
+* POTEN_02 : POTENTIO Meter를 이용한 AnlogeRead 실험
+* POTEN_03 : CdS Cell 을 이용한 AnlogeRead 실험
+
+## 2017-07-21
+* WeMos 설치 : http://arduino.esp8266.com/stable/package_esp8266com_index.json
