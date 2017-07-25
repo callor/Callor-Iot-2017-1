@@ -1,6 +1,8 @@
 
-#define PIR 5 // D3
-#define LED 4 // D4
+//#include "WeMosPin.h"
+
+#define PIR  D3
+#define LED  D4
 
 void setup() {
 
