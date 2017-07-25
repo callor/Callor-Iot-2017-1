@@ -21,3 +21,15 @@
 
 ## 2017-07-21
 * WeMos 설치 : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+## 2017-07-24
+* LCD_01 : 16x2 LCD 표시
+* LCD_02 : PIR 센서 감지 및 LCD에 Warrning 띄우기
+* LCD_03 : CdS Cell 빛 감지 및 LCD에 값 띄우기
+
+## 2017-07-25
+* Hello_FND : 1 Digit FND
+* FND_DYNAMIC : 4 Digit FND Dynamic 구동
+* PIEZO_SPK : 피에조 스피커를 이용해서 경고음 발생
+* PIEZO_SPK_SCH : 학교종이 땡땡땡 연주해 보기
+
